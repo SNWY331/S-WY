@@ -1,7 +1,4 @@
 # Hi, I'm [SNWY] 👋
-
-[One-line tagline — e.g. "Frontend developer building clean, fast web experiences."]
-
 My YOUTUBE:https://www.youtube.com/@SNXY-t9o
 
 ---
